@@ -1,4 +1,4 @@
-# LeetCode Problem No: 1207
+# LeetCode Problem No: 1207 (Unique Number of Occurrences)
 
 from typing import List
 
