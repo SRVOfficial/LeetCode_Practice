@@ -25,7 +25,8 @@
 
 <h1>LC1189</h1>
 <h4>Easy</h4>
-<img src="./images/LC1189A.png" alt="LC1189 Image">
+<img src="./images/LC1189A.png" alt="LC1189A Image">
+<img src="./images/LC1189B.png" alt="LC1189B Image">
 <hr/>
 
 
