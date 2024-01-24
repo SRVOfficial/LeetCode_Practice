@@ -6,6 +6,11 @@
 <img src="./images/LC1.png" alt="LC1 Image">
 <hr/>
 
+<h1>LC136</h1>
+<h4>Easy</h4>
+<img src="./images/LC136.png" alt="LC136 Image">
+<hr/>
+
 
 <h1>LC448</h1>
 <h4 style="color: green;">Easy</h4>
@@ -16,6 +21,11 @@
 <h1>LC496</h1>
 <h4>Easy</h4>
 <img src="./images/LC496.png" alt="LC496 Image">
+<hr/>
+
+<h1>LC1189</h1>
+<h4>Easy</h4>
+<img src="./images/LC1189A.png" alt="LC1189 Image">
 <hr/>
 
 
