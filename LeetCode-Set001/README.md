@@ -13,6 +13,12 @@
 
 
 <h1>LC448</h1>
+<h4 style="color: yellow;">Medium</h4>
+<img src="./images/LC230.png" alt="LC230 Image">
+<hr/>
+
+
+<h1>LC448</h1>
 <h4 style="color: green;">Easy</h4>
 <img src="./images/LC448.png" alt="LC448 Image">
 <hr/>
