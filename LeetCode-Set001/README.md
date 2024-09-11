@@ -58,6 +58,12 @@
 
 
 
+<h1>LC2220</h1>
+<h4 style="color: green;">Easy</h4>
+<img src="./images/LC2220.png" alt="LC2220 Image">
+<hr/>
+
+
 <h1>LC2807</h1>
 <h4 style="color: yellow;">Medium</h4>
 <img src="./images/LC2807.png" alt="LC2807 Image">
