@@ -36,6 +36,13 @@
 <img src="./images/LC496.png" alt="LC496 Image">
 <hr/>
 
+
+<h1>LC860</h1>
+<h4>Easy</h4>
+<img src="./images/LC860.png" alt="LC860 Image">
+<hr/>
+
+
 <h1>LC1189</h1>
 <h4>Easy</h4>
 <img src="./images/LC1189A.png" alt="LC1189A Image">
