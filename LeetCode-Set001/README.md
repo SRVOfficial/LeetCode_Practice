@@ -58,6 +58,14 @@
 
 
 
+<h1>LC1684</h1>
+<h4 style="color: green;">Easy</h4>
+<!-- ![LC1207](./images/LC1207.png) -->
+<img src="./images/LC1684.png" alt="LC1684 Image">
+<hr/>
+
+
+
 <h1>LC2220</h1>
 <h4 style="color: green;">Easy</h4>
 <img src="./images/LC2220.png" alt="LC2220 Image">
