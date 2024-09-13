@@ -70,6 +70,13 @@
 
 
 
+<h1>LC1310</h1>
+<h4 style="color: yellow;">Medium</h4>
+<!-- ![LC1207](./images/LC1207.png) -->
+<img src="./images/LC1310.png" alt="LC1310 Image">
+<hr/>
+
+
 <h1>LC1684</h1>
 <h4 style="color: green;">Easy</h4>
 <!-- ![LC1207](./images/LC1207.png) -->
