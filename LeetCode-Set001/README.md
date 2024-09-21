@@ -32,6 +32,13 @@
 <hr/>
 
 
+
+<h1>LC386</h1>
+<h4 style="color: yellow;">Medium</h4>
+<img src="./images/LC386.png" alt="LC386 Image">
+<hr/>
+
+
 <h1>LC387</h1>
 <h4 style="color: green;">Easy</h4>
 <img src="./images/LC387.png" alt="LC387 Image">
