@@ -71,6 +71,12 @@
 
 
 
+<h1>LC606</h1>
+<h4>Medium</h4>
+<img src="./images/LC606.png" alt="LC606 Image">
+<hr/>
+
+
 <h1>LC729</h1>
 <h4>Medium</h4>
 <img src="./images/LC729.png" alt="LC729 Image">
