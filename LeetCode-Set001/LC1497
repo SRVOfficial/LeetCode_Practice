@@ -1,0 +1,30 @@
+class Solution:
+    def canArrange(self, arr: List[int], k: int) -> bool:
+
+        hashmap = {}
+
+  
+        for num in arr:
+            remainder = num % k
+            hashmap[remainder] = hashmap.get(remainder, 0) + 1
+
+  
+        for remainder in hashmap:
+            # Handle remainder 0 case separately: count must be even
+            if remainder == 0:
+                if hashmap[remainder] % 2 != 0:
+                    return False
+            # Handle cases where remainder == k - remainder (like remainder = k/2 when k is even)
+            elif remainder == k - remainder:
+                if hashmap[remainder] % 2 != 0:
+                    return False
+            # General case: remainder must pair with k - remainder
+            else:
+                if hashmap[remainder] != hashmap.get(k - remainder, 0):
+                    return False
+
+        return True
+
+
+
+
