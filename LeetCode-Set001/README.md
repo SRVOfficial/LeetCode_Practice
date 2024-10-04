@@ -200,6 +200,13 @@
 <hr/>
 
 
+
+<h1>LC2491</h1>
+<h4 style="color: yellow;">Medium</h4>
+<img src="./images/LC2491.png" alt="LC2491 Image">
+<hr/>
+
+
 <h1>LC2807</h1>
 <h4 style="color: yellow;">Medium</h4>
 <img src="./images/LC2807.png" alt="LC2807 Image">
