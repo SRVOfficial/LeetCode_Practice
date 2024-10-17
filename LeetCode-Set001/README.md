@@ -84,6 +84,12 @@
 <hr/>
 
 
+<h1>LC670</h1>
+<h4>Medium</h4>
+<img src="./images/LC670.png" alt="LC670 Image">
+<hr/>
+
+
 
 <h1>LC682</h1>
 <h4>Easy</h4>
